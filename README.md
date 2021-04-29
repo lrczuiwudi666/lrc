@@ -1,0 +1,2 @@
+# lrc
+my first github
